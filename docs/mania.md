@@ -4,7 +4,7 @@ category: [mania]
 ---
 ## Mania Score System
 
-The mania ranked score system is confusing, whereas the same score can be different if set on different maps.
+The mania ranked score system is confusing, whereas the same score can be different even if the two are set on different maps.
 
 For example here are two formulas of the same score but with a different result in the "ranked score from recently submitted score" section.
 
