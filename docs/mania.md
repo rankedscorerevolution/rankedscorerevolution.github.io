@@ -33,7 +33,7 @@ updated total score: 1,000,000,000,097
 ``` 
 Map 2:
 ```typescript
-current total score: 1,000,000,000,097
+current total score: 1,000,001,000,097
 total score from recently submitted score: 999,998
 exact score: 1,000,000
 updated total score: 1,000,000,001,096
