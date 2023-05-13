@@ -1,3 +1,4 @@
+gem "jekyll-theme-hydeout", "~> 4.1"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll", "~> 4.1.0"
 group :jekyll_plugins do
