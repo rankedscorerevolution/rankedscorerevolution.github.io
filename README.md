@@ -1,1 +1,4 @@
-# rankedscorerevolution.github.io
+# Ranked Score Revolution
+
+<!-- I changed my mind- reimagining the ranked score system
+note: this project "reimagines" the current ranked/total score system and IS NOT a developer project. With that considered, please don't expect anything from this project to come to life in a future osu! update as it may likely not. I am not a developer for osu! and I do not have a say on anything. Developers can be found here: https://osu.ppy.sh/groups/11. A simple reminder that I am not a developer, and that this project is just my beliefs on how the ranked score system should go and has NOTHING to do with replacing the current system in-game. - ALL OF THIS HAD BEEN SCRAPPED --> An attempt to dissect the current score system
