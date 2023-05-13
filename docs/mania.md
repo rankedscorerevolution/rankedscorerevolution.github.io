@@ -24,7 +24,7 @@ updated ranked score: 1,000,002,000,014
 ``` 
 The latter's submitted score was exactly 1,000,000, whereas the ranked score given was 999,987, whereas the former's submitted score was the same but awarded 1,000,027.
 
-It is worth mentioning that the same can also happen with the total score.
+It is worth mentioning that the same can also happen with total score.
 
 Map 1:
 ```typescript
