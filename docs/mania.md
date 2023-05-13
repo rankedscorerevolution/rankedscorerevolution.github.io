@@ -1,5 +1,5 @@
 ---
-title: "Mania_Score_System"
+title: [Mania Score System]
 category: [mania]
 ---
 ## Mania Score System
