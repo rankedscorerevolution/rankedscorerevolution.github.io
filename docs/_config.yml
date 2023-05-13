@@ -1,3 +1,9 @@
 remote_theme: fongandrew/hydeout
 paginate: 4
 title: RSRevolution
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+sidebar_home_link:  true
