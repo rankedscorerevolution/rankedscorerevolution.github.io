@@ -22,7 +22,9 @@ ranked score from recently submitted score: 1,000,027
 exact score: 1,000,000
 updated ranked score: 1,000,002,000,014
 ``` 
-The same can also happen with total score.
+The latter's submitted score was exactly 1,000,000 whereas the ranked score given was 999,987 meanwhile the former's submitted score was the same but awarding 1,000,027.
+
+Worth mentioning that the same can also happen with total score.
 
 Map 1:
 ```typescript
@@ -39,4 +41,5 @@ exact score: 1,000,000
 updated total score: 1,000,000,001,096
 total score /w decimals: 1000000001096.998 // doesn't really matter much
 ``` 
+
 For reference: ![Alt text](screenshot187.jpg)
