@@ -1,4 +1,68 @@
-title: Ranked Score Revolution
+# copied from the page itself
 remote_theme: SdtElectronics/jekyll-theme-antarctica
+
+title: Ranked Score Revolution
+author: MiloTilo
+
+#
+copyright: "2022-{currentYear} {author}"
+
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "rankedscorerevolution.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: "" # the favicon for your site
+#avatar: ""
+
+template:
+# date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+  date_format: "%b %d, %Y"
+  widgets: colophon comment global_cmt post_meta share related_sites table_of_content
+  portfolios: projects gallery
+  propIcons:
+    pinned: "&#x1f4cc;&#xFE0E;"
+
+# If you want to generate website sitemap, you can set true
+# sitemap: false
+
+# Valine Comments
+valine:
+  appId: "GoHOdR14a6Qubobq68emQ8n2-MdYXbMMI"
+  appKey: "SCxcdTzApt8RXJVrtqsDXay0"
+  serverURLs: https://gohodr14.api.lncldglobal.com
+
+collections_dir: collections
+collections:
+  projects:
+    output: true
+  gallery:
+    output: true
+  
+projects_categories: 
+  - mania
+  - osu
+  - taiko
+  - ctb
+
+related_sites:
+  Jekyll | Static site generator: https://jekyllrb.com
+  Source Repo | Theme antarctica: https://github.com/SdtElectronics/jekyll-theme-antarctica
+  My Homepage | SdtElectronics: https://sdtelectronics.github.io/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+kmarkdown:
+  input: GFM
+
 plugins:
-  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap

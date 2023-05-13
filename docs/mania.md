@@ -1,3 +1,7 @@
+---
+title: "Mania_Score_System"
+category: [mania]
+---
 ## Mania Score System
 
 The mania ranked score system is confusing, whereas the same score can be different if set on different maps.
