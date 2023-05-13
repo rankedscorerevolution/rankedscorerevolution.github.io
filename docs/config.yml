@@ -1,4 +1,4 @@
 title: Ranked Score Revolution
-remote_theme: olivier3lanc/Jekyll-LibDoc
+remote_theme: SdtElectronics/jekyll-theme-antarctica
 plugins:
   - jekyll-remote-theme
