@@ -1,6 +1,6 @@
 remote_theme: fongandrew/hydeout
-paginate: 4
-title: RSRevolution
+paginate: 2
+title: RSRevo
 plugins:
   - jekyll-feed
   - jekyll-gist
